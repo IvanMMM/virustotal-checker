@@ -1,0 +1,19 @@
+{
+  "name": "virustotal-scanner",
+  "version": "1.0.0",
+  "description": "Script for checking files at virustotal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BadVolt",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "input": "^1.0.1",
+    "virustotal-api": "^1.1.6"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
